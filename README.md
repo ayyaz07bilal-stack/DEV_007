@@ -60,8 +60,9 @@ An intelligent terminal assistant that understands natural language and suggests
 ### **Installation**
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/ai-terminal-assistant.git
-cd ai-terminal-assistant
+git clone
+https://github.com/RootedDev007/AI_Terminal
+cd AI_Terminal
 
 # Install dependencies
 pip install -r requirements.txt
